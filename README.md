@@ -1,4 +1,4 @@
-# NBT-Dupe-Checker
+# Dungeon Floor Tracker
 **Checks for duped items in Hypixel Skyblock**
 
 # Download
